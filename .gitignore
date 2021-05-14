@@ -1,0 +1,11 @@
+*.pyc
+*/__pycache__/*.pyc
+*/venv/
+/venv/
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
